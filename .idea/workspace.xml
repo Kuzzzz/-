@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1423966-f3df-420d-be41-9cd33da1c97e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anlei/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anlei/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/anlei/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biyesheji/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/biyesheji/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biyesheji/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/biyesheji/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="d1423966-f3df-420d-be41-9cd33da1c97e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/anlei/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            <state relative-caret-position="228">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -202,12 +196,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548426211136</updated>
       <workItem from="1548426212488" duration="2290000" />
-      <workItem from="1549165885583" duration="1908000" />
+      <workItem from="1549165885583" duration="2239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4198000" />
+    <option name="totallyTimeSpent" value="4529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -269,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/anlei/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        <state relative-caret-position="228">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
