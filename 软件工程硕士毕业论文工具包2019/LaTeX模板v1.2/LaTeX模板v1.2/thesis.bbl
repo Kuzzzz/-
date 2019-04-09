@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem{DBLP:journals/computer/EgyedZHD18}
+A.~Egyed, K.~Zeman, P.~Hehenberger, A.~Demuth, Maintaining consistency across
+  engineering artifacts, {IEEE} Computer 51~(2) (2018) 28--35.
+\newline\urlprefix\url{https://doi.org/10.1109/MC.2018.1451666}
+
+\bibitem{GanttSystem}
+GanttProject开发组, Ganttproject主页, \url{http://www.ganttproject.biz}.
+
+\bibitem{Pohl2010Requirements}
+K.~Pohl, Requirements Engineering - Fundamentals, Principles, and Techniques,
+  Springer, 2010.
+\newline\urlprefix\url{http://www.springer.com/computer/swe/book/978-3-642-12577-5?changeHeader}
+
+\bibitem{cyg2006}
+程远国, 尹迪, 基于分布式中间件的传感器网络软件体系结构研究,
+  计算机工程与科学~(s2) (2006) 4--5.
+
+\bibitem{DBLP:journals/ml/TingZCZWZ19}
+K.~M. Ting, Y.~Zhu, M.~J. Carman, Y.~Zhu, T.~Washio, Z.~Zhou, Lowest
+  probability mass neighbour algorithms: relaxing the metric constraint in
+  distance-based neighbourhood algorithms, Machine Learning 108~(2) (2019)
+  331--376.
+\newline\urlprefix\url{https://doi.org/10.1007/s10994-018-5737-x}
+
+\end{thebibliography}

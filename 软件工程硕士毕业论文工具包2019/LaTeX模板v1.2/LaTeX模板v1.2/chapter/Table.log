@@ -1,0 +1,607 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.9.12)  25 MAR 2019 10:37
+entering extended mode
+**Table.tex
+
+(C:\ï¼ç ”ç©¶\~å—å¤§è½¯é™¢\ç ”ç©¶ç”Ÿäº‹åŠ¡\ç¡•å£«è®ºæ–‡å·¥å…·åŒ…\LaTeXæ¨¡æ¿\c
+hapter\Table.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+! Undefined control sequence.
+l.1 \chapter
+            {±í¸ñ}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{±
+              í¸ñ}
+? 
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ñ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ±
+     í¸ñÊÇLaTeXÖĞÉÙÊıÃ»ÓĞWordºÃÓÃµÄ¹¦ÄÜ¡£
+? 
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no Ù in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no ı in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no Ó in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no Ó in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ¹ in font nullfont!
+Missing character: There is no ¦ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Ü in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no Ò in font nullfont!
+Missing character: There is no À in font nullfont!
+Missing character: There is no È in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ´ in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no Ô in font nullfont!
+Missing character: There is no Ú in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¾ in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Î in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no Ì in font nullfont!
+Missing character: There is no â in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no ¬ in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no Ò in font nullfont!
+Missing character: There is no ² in font nullfont!
+Missing character: There is no Ó in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no ½ in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no À in font nullfont!
+Missing character: There is no ¹ in font nullfont!
+Missing character: There is no Û in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no ¬ in font nullfont!
+Missing character: There is no Ï in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no Ô in font nullfont!
+Missing character: There is no Ò in font nullfont!
+Missing character: There is no × in font nullfont!
+Missing character: There is no Ó in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no Ï in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no Ô in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no È in font nullfont!
+Missing character: There is no ı in font nullfont!
+Missing character: There is no Ï in font nullfont!
+Missing character: There is no ß in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no £ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--5
+[]
+ []
+
+! Undefined control sequence.
+l.6 \section
+            {±í¸ñÓë±í¸ñÒıÓÃµÄ»ù±¾¸ÅÄî}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \section{±
+              í¸ñÓë±í¸ñÒıÓÃµÄ»ù±¾¸ÅÄî}
+? 
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no Ó in font nullfont!
+Missing character: There is no ë in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no Ò in font nullfont!
+Missing character: There is no ı in font nullfont!
+Missing character: There is no Ó in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ¾ in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Í in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ¿ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no × in font nullfont!
+Missing character: There is no Ô in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no ¯ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ú in font nullfont!
+Missing character: There is no ³ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ² in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no ³ in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no ¬ in font nullfont!
+Missing character: There is no Î in font nullfont!
+Missing character: There is no Ş in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no È in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no ¹ in font nullfont!
+Missing character: There is no ¤ in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no Ş in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no Ò in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no Ô in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no Ó in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no × in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no ¬ in font nullfont!
+Missing character: There is no Ô in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no Ô in font nullfont!
+Missing character: There is no Ú in font nullfont!
+Missing character: There is no Õ in font nullfont!
+Missing character: There is no ı in font nullfont!
+Missing character: There is no Î in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no Ò in font nullfont!
+Missing character: There is no ı in font nullfont!
+Missing character: There is no Ó in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no ¬ in font nullfont!
+Missing character: There is no ¾ in font nullfont!
+Missing character: There is no Í in font nullfont!
+Missing character: There is no ¿ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no Ò in font nullfont!
+Missing character: There is no Ô in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no ³ in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no × in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no £ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--9
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...ĞÓÈÒÔÂÛÎÄÒıÓÃ²¿·Ö×îÎªÆæÌØ£¬Ïê¼ûÏà¹ØÕÂ½Ú¡£}
+                                                  
+? 
+Missing character: There is no × in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no º in font cmbx10!
+Missing character: There is no È in font cmbx10!
+Missing character: There is no ç in font cmbx10!
+Missing character: There is no ¹ in font cmbx10!
+Missing character: There is no û in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no » in font cmbx10!
+Missing character: There is no ¸ in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no Ğ in font cmbx10!
+Missing character: There is no Â in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no ¸ in font cmbx10!
+Missing character: There is no ñ in font cmbx10!
+Missing character: There is no ¼ in font cmbx10!
+Missing character: There is no Ó in font cmbx10!
+Missing character: There is no È in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no ¬ in font cmbx10!
+Missing character: There is no ² in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no » in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ı in font cmbx10!
+Missing character: There is no Ó in font cmbx10!
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no ¬ in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no à in font cmbx10!
+Missing character: There is no ¼ in font cmbx10!
+Missing character: There is no ­ in font cmbx10!
+Missing character: There is no Æ in font cmbx10!
+Missing character: There is no ÷ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no « in font cmbx10!
+Missing character: There is no Ğ in font cmbx10!
+Missing character: There is no è in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ª in font cmbx10!
+Missing character: There is no Á in font cmbx10!
+Missing character: There is no ¬ in font cmbx10!
+Missing character: There is no Ğ in font cmbx10!
+Missing character: There is no ø in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no à in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no Á in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no Î in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no È in font cmbx10!
+Missing character: There is no ı in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no Î in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no ¬ in font cmbx10!
+Missing character: There is no ² in font cmbx10!
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no Ü in font cmbx10!
+Missing character: There is no Í in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no ³ in font cmbx10!
+Missing character: There is no É in font cmbx10!
+Missing character: There is no È in font cmbx10!
+Missing character: There is no « in font cmbx10!
+Missing character: There is no ² in font cmbx10!
+Missing character: There is no ¿ in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no Ì in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no ¡ in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ı in font cmbx10!
+Missing character: There is no Ó in font cmbx10!
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no º in font cmbx10!
+Missing character: There is no Í in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ¿ in font cmbx10!
+Missing character: There is no Â in font cmbx10!
+Missing character: There is no ¼ in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ¸ in font cmbx10!
+Missing character: There is no ü in font cmbx10!
+Missing character: There is no Ğ in font cmbx10!
+Missing character: There is no Â in font cmbx10!
+Missing character: There is no ¡ in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no ¿ in font cmbx10!
+Missing character: There is no É in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no Ô in font cmbx10!
+Missing character: There is no À in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no Î in font cmbx10!
+Missing character: There is no ª in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no Ú in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no » in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no Î in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no à in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ı in font cmbx10!
+Missing character: There is no È in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no Ğ in font cmbx10!
+Missing character: There is no Â in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no ¸ in font cmbx10!
+Missing character: There is no ñ in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no ¬ in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no Ë in font cmbx10!
+Missing character: There is no Ê in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no » in font cmbx10!
+Missing character: There is no ¹ in font cmbx10!
+Missing character: There is no ² in font cmbx10!
+Missing character: There is no » in font cmbx10!
+Missing character: There is no Ö in font cmbx10!
+Missing character: There is no ª in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no ¸ in font cmbx10!
+Missing character: There is no ñ in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ı in font cmbx10!
+Missing character: There is no Ó in font cmbx10!
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no Î in font cmbx10!
+Missing character: There is no » in font cmbx10!
+Missing character: There is no Ö in font cmbx10!
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ¾ in font cmbx10!
+Missing character: There is no ß in font cmbx10!
+Missing character: There is no Ì in font cmbx10!
+Missing character: There is no å in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no à in font cmbx10!
+Missing character: There is no º in font cmbx10!
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no ¬ in font cmbx10!
+Missing character: There is no Ğ in font cmbx10!
+Missing character: There is no è in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ª in font cmbx10!
+Missing character: There is no Á in font cmbx10!
+Missing character: There is no ô in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no ı in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no Ú in font cmbx10!
+Missing character: There is no ¶ in font cmbx10!
+Missing character: There is no ş in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no Î in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no à in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no Í in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no ³ in font cmbx10!
+Missing character: There is no É in font cmbx10!
+Missing character: There is no ¡ in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no ¶ in font cmbx10!
+Missing character: There is no ø in font cmbx10!
+Missing character: There is no Ó in font cmbx10!
+Missing character: There is no Ğ in font cmbx10!
+Missing character: There is no ¿ in font cmbx10!
+Missing character: There is no É in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no Ü in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no Ú in font cmbx10!
+Missing character: There is no È in font cmbx10!
+Missing character: There is no ı in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no Î in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no à in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no ² in font cmbx10!
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no « in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no ¸ in font cmbx10!
+Missing character: There is no ñ in font cmbx10!
+Missing character: There is no Ğ in font cmbx10!
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no Ï in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no Ğ in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no È in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no ¿ in font cmbx10!
+Missing character: There is no ª in font cmbx10!
+Missing character: There is no Í in font cmbx10!
+Missing character: There is no · in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ¿ in font cmbx10!
+Missing character: There is no Â in font cmbx10!
+Missing character: There is no ¼ in font cmbx10!
+Missing character: There is no ¡ in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no À in font cmbx10!
+Missing character: There is no à in font cmbx10!
+Missing character: There is no Ë in font cmbx10!
+Missing character: There is no Æ in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no Ç in font cmbx10!
+Missing character: There is no é in font cmbx10!
+Missing character: There is no ¿ in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no Ò in font cmbx10!
+Miss
